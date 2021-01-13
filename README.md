@@ -32,6 +32,8 @@ Here are the links to them:
 - [REST API](https://github.com/AlexsandroBezerra/devcalendar-server)
 - [Web client](https://github.com/AlexsandroBezerra/devcalendar-web)
 
+#### [Click here](https://www.figma.com/file/9y1cBfLLcGCI9PPB3UwHJL/DevCalendar?node-id=33%3A0) to open the web layout on Figma.
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
