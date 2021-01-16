@@ -16,9 +16,6 @@
   </a>
 </p>
 
-<h2 align="center">🚧 Under development 🚧</h2>
-
-
 <p align="center">
   	<img alt="DevCalendar layout" src=".github/assets/layout.png"  />
 </p>
