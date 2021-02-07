@@ -2,8 +2,6 @@
 	<img alt="DevCalendar" src=".github/assets/logo.svg" width="400px" />
 </h1>
 
-<h3 align="center">Express Application for DevCalendar project</h3>
-
 <p align="center">The best way to organize events' dates!</p>
 
 <p align="center">
